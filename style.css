@@ -1,0 +1,30 @@
+.header-footer {
+    background-color:rgb(21, 24, 21);
+    border-color: rgb(21, 24, 21);
+    list-style: none;
+    color: white;
+}
+
+body {
+    background-color: rgb(226, 218, 218);
+}
+
+.menu {
+    text-decoration: none;
+    color: white;
+}
+
+.pic {
+    outline: 1px solid rgb(0, 0, 0);
+    padding: 5px;
+    background: black;
+}
+
+.product {
+    text-decoration: none;
+    color: black;
+}
+
+.container {
+    position: top;
+}
